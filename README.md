@@ -2,7 +2,7 @@
 
 The NextJs core starter for Stackbit.
 
-## Quickstart qa
+## Quickstart qa123
 
 ```
 npm install
