@@ -14,7 +14,7 @@ npm run dev
 
 ### Add a new page
 
-as df
+as df x
 Create a new markdown file `content/pages/new-page.md` with the following frontmatter.
 
 ```yaml
