@@ -136,7 +136,7 @@ sections:
         icon: arrowRight
     feature:
       type: ImageBlock
-      url: /images/hero-3.jpg
+      url: /images/bg-right.png
       altText: Hero section image
     styles:
       self:
